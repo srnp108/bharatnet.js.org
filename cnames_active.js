@@ -359,6 +359,7 @@ var cnames_active = {
   "between": "na-west1.surge.sh",
   "bfd": "mrsheldon.github.io/bfd.js",
   "bhailang": "dullabs.github.io/bhai-lang",
+  "bharatnet": "connect-bharat-x03xu.web.app",
   "bigbrainbot": "112batman.github.io/bigbrainbot-website",
   "biggames": "jacobhumston.github.io/biggames.js",
   "bijou": "explosion-scratch.github.io/bijou.js",
